@@ -1,6 +1,7 @@
 img{width: 100%;}
 .box2{margin-top: 50px;}
 .bm{margin-top: 100px;}
+.p{row-gap: 10px;}
 .s1{background-color: rgb(136, 168, 168);}
 .s2{background-color: rgb(106, 184, 145);}
 .rp{padding-top: 30px;}
@@ -14,5 +15,6 @@ img{width: 100%;}
 .f{background-color:rgb(240, 169, 39) ;}
 .course img{ width: fit-content;}
 ul{list-style: none;}
+.email input{width: 60%;}
 .email{justify-content: right;}
 
