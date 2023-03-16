@@ -1,7 +1,9 @@
 img{width: 100%;}
 .box2{margin-top: 50px;}
 .bm{margin-top: 100px;}
-.p{row-gap: 10px;}
+.n img{width: fit-content;}
+
+
 .s1{background-color: rgb(136, 168, 168);}
 .s2{background-color: rgb(106, 184, 145);}
 .rp{padding-top: 30px;}
@@ -10,6 +12,7 @@ img{width: 100%;}
 .fc{color: rgb(250, 250, 250);}
 .box4 img{width: fit-content;}
 .b{border: 2px rgb(240, 169, 39) solid;color:rgb(240, 169, 39) ;}
+.b{padding:20px;}
 .box4 h5{font-weight: bold; color:rgb(240, 169, 39) ;}
 .bg{background-color: antiquewhite;}
 .f{background-color:rgb(240, 169, 39) ;}
